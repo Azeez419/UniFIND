@@ -34,3 +34,43 @@
 - As a student, I want to claim an item and provide evidence so that I can prove it belongs to me.
 - As an administrator, I want to view private finder information so that I can verify claims without exposing sensitive details publicly.
 - As an administrator, I want to approve or reject claims so that items are only returned to genuine owners.
+
+
+
+## Requirement Priorities
+
+### Must Have
+- User sign in / authentication
+- Browse found items
+- Search and filter found items
+- Submit lost-item reports
+- Submit found items
+- Upload item photos
+- Submit claims
+- Provide claim evidence
+- Admin can view private item details
+- Admin can approve or reject claims
+- Admin can update item status
+- Students can view claim status
+
+### Should Have
+- Email notifications
+- More advanced filtering
+- Claim history
+- Admin activity log
+- Item retention / expiry handling
+- Improved mobile optimisation
+
+### Could Have
+- AI assistant
+- Automatic lost/found matching
+- Image similarity
+- QR labels
+- SMS notifications
+- Admin analytics and charts
+
+### Won't Have in the First Version
+- Native mobile app
+- GPS item tracking
+- Automatic claim approval
+- Payment system
