@@ -1,6 +1,6 @@
 # UniFIND Requirements
 
-### Functional Requirements
+## Functional Requirements
 
 - FR1: The system shall allow university users to create an account and sign in.
 - FR2: The system shall allow students to browse found items.
@@ -15,7 +15,7 @@
 - FR11: The system shall allow administrators to update an item status.
 - FR12: The system shall allow students to view the status of their claims.
 
-### Non-Functional Requirements
+## Non-Functional Requirements
 
 - NFR1: The system should be usable on both desktop and mobile devices.
 - NFR2: Sensitive finder details must not be visible to normal users.
